@@ -42,7 +42,7 @@
 * [Adventures in Angular](http://devchat.tv/adventures-in-angular) - [Weekly] - [Interview](#interview)
 
 ## Web
-* [Shop Talk Show](http://shoptalkshow.com/) - [Weekly] - [Interview](#interview), [Q&A](q-a)
+* [Shop Talk Show](http://shoptalkshow.com/) - [Weekly] - [Interview](#interview), [Q&A](qa)
 
 ## Legend
 #### Interview
