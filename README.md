@@ -6,12 +6,14 @@
   - [Software Engineering (not language/technology specific)](#software-engineering-not-languagetechnology-specific)
   - [Clojure](#clojure)
   - [Erlang](#erlang)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
-    - [NodeJs](#nodejs)
-    - [Angular](#angular)
-  - [Security](#security)
+  - [.NET](#net)
   - [Web](#web)
+  - [Mobile](#mobile)
+  - [Security](#security)
+  - [DevOps](#devops)
   - [Legend](#legend)
       - [Interview](#interview)
       - [News](#news)
@@ -32,8 +34,9 @@ Programming languages are in alphabetical order.
 * [Chariot Developer News](http://chariotsolutions.com/podcasts/) - [Twice a Month] - [News](#news), [Themes](#themes)
 * [Hanselminutes](http://www.hanselminutes.com/) - [Weekly] - [Interview](#interview)
 * [The Changelog](http://thechangelog.com/podcast/) - [Twice a Month] - [Interview](#interview)
-* [All Things Pivotal](http://www.pivotal.io/podcasts) - [Weekly] - [Themes](#themes), [Interview](#interview)
 * [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/) - [Weekly] - [Interview](#interview)
+* [All Things Pivotal](http://www.pivotal.io/podcasts) - [Weekly] - [Themes](#themes), [Interview](#interview)
+* [Functional Geekery](http://www.functionalgeekery.com/) - [Weekly] - [Interview](#interview)
 * [Illegal Argument](http://www.illegalargument.com/) - [Twice a Month] - [Disscussion](#discussion), [Themes](#themes)
 * [Hack & Heckle](http://hackandheckle.com/) - [Weekly] - [Disscussion](#discussion), [Themes](#themes)
 * [Programming Throwdown](http://www.programmingthrowdown.com/) - [Irregular] - [Disscussion](#discussion), [Themes](#themes)
@@ -46,6 +49,9 @@ Programming languages are in alphabetical order.
 
 ## Erlang
 * [Mostly Erlang](http://mostlyerlang.com/) - [Weekly] - [Interview](#interview), [Themes](#themes), [Disscussion](#discussion)
+
+## Haskell
+* [Haskell Cast](http://www.haskellcast.com/) - [Irregular] - [Interview](#interview)
 
 ## Java
 * [Java Pub House](http://www.javapubhouse.com/) - [Monthly/Irregular] - [Themes](#themes)
