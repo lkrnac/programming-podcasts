@@ -41,6 +41,9 @@
 ### Angular
 * [Adventures in Angular](http://devchat.tv/adventures-in-angular) - [Weekly] - [Interview](#interview)
 
+## Web
+* [Shop Talk Show](http://shoptalkshow.com/) - [Weekly] - [Interview](#interview), [Q&A](q-a)
+
 ## Legend
 #### Interview
 Podcast has form of interview with guests, where host/s drive technical conversation 
@@ -52,4 +55,5 @@ Hosts are explaining various themes around certain technology
 Discussion between hosts / guests
 #### Beginner
 Targetted to beginner level audience
-
+#### Q&A
+Hosts / Guests answer questions from listeners
