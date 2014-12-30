@@ -19,11 +19,16 @@
 
 # List of Software Engineering Podcasts
 
-## Software Engineering
+## Software Engineering (not language/technology specific)
 * [Software Engineering Radio](http://www.se-radio.net/) - [Monthly] - [Interview](#interview)
 * [Chariot Developer News](http://chariotsolutions.com/podcasts/) - [Twice a Month] - [News](#news), [Themes](#themes)
 * [The Changelog](http://thechangelog.com/podcast/) - [Twice a Month] - [Interview](#interview)
 * [All Things Pivotal](http://www.pivotal.io/podcasts) - [Weekly] - [Themes](#themes), [Interview](#interview)
+* [Illegal Argument](http://www.illegalargument.com/) - [Twice a Month] - [Disscussion](#discussion), [Themes](#themes)
+* [Hack & Heckle](http://hackandheckle.com/) - [Weekly] - [Disscussion](#discussion), [Themes](#themes)
+* [Programming Throwdown](http://www.programmingthrowdown.com/) - [Irregular] - [Disscussion](#discussion), [Themes](#themes)
+* [Devnexus Podcast](http://www.devnexus.com/static/podcast/devnexus_podcast.xml) - [Irregular] - [Talks](#talks)
+* [Basement Coders](http://basementcoders.com/) - [Irregular] - [Disscussion](#discussion), [Themes](#themes)
 
 ## Java
 * [Java Pub House](http://www.javapubhouse.com/) - [Monthly/Irregular] - [Themes](#themes)
@@ -34,6 +39,8 @@
 ## JavaScript
 * [JavaScript Jabber](http://devchat.tv/js-jabber) - [Weekly] - [Interview](#interview)
 * [5 Minutes of JavaScript](http://fivejs.codeschool.com/) - [Weekly] - [News](#news)
+* [CodeWinds](http://codewinds.com/podcast.html) - [Irregular] - [Interview](#interview), [Themes](#themes)
+* [Ghostalk](http://talk.ghost.io/) - [Irregular] - [Interview](#interview)
 
 ### NodeJs
 * [NodeUp](http://nodeup.com/) - [Twice a Month] - [Interview](#interview), [Themes](#themes), [Disscussion](#discussion)
@@ -43,6 +50,8 @@
 
 ## Web
 * [Shop Talk Show](http://shoptalkshow.com/) - [Weekly] - [Interview](#interview), [Q&A](#qa)
+* [CDNify](https://cdnify.com/blog/category/podcasts/) - [Monthly/Twice a Month] - [Interview](#interview)
+* [Polymorphic Podcast](http://www.polymorphicpodcast.com/) - [Irregular] - [Themes](#themes), [Interview](#interview)
 
 ## Legend
 #### Interview
@@ -57,3 +66,5 @@ Discussion between hosts / guests
 Targetted to beginner level audience
 #### Q&A
 Hosts / Guests answer questions from listeners
+#### Talks
+Recorded conference talks
