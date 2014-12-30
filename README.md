@@ -70,12 +70,16 @@ Programming languages are in alphabetical order.
 * [Polymorphic Podcast](http://www.polymorphicpodcast.com/) - [Irregular] - [Themes](#themes), [Interview](#interview)
 * [WebDevRadio](http://webdevradio.com/) - [Irregular] - [Themes](#themes)
 
+## Mobile
+* [Debug](https://itunes.apple.com/us/podcast/debug/id578812394) - [Twice a Month] - [Interview](#interview)
+
 ## Security
-* [Security Now](https://www.grc.com/securitynow.htm) - Weekly - [Themes](#themes), [Q&A](#qa) 
+* [Security Now](https://www.grc.com/securitynow.htm) - [Weekly] - [Themes](#themes), [Q&A](#qa) 
+* [OWASP Security Podcast](https://www.owasp.org/index.php/OWASP_Podcast) - [Irregular] - [Interview](#interview)
 
 ## DevOps
 * [The Ship Show](http://theshipshow.com/) - [Twice a Month] - [Themes](#themes)
-* 
+* [Food Fights Show](http://foodfightshow.org/) - [Irregular] - [Interview](#interview)
 
 ## Legend
 #### Interview
