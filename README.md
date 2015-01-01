@@ -42,6 +42,7 @@ Programming languages are in alphabetical order.
 * [Programming Throwdown](http://www.programmingthrowdown.com/) - [Irregular] - [Disscussion](#discussion), [Themes](#themes)
 * [Devnexus Podcast](http://www.devnexus.com/static/podcast/devnexus_podcast.xml) - [Irregular] - [Talks](#talks)
 * [Basement Coders](http://basementcoders.com/) - [Irregular] - [Disscussion](#discussion), [Themes](#themes)
+* [Code Newbie](http://www.codenewbie.org/podcast) - [Weekly] - [Interview](#interview), [Begginer](#beginner)
 
 ## Clojure
 * [Cognicast](http://blog.cognitect.com/cognicast) - [Monthly] - [Interview](#interview)
@@ -68,7 +69,23 @@ Programming languages are in alphabetical order.
 * [Ghostalk](http://talk.ghost.io/) - [Irregular] - [Interview](#interview)
 
 ## .NET
+* [.NET Rocks!](http://www.dotnetrocks.com/) - [Daily] - [Interview](#interview)
+* [MS Dev Show](http://msdevshow.com/) - [Weekly] - [News](#news), [Interview](#interview), [Disscussion](#discussion)
 * [Herding Code](http://herdingcode.com/) - [Monthly] - [Interview](#interview)
+* [Yet Another Podcast](http://jesseliberty.com/podcast/) - [Twice a Month] - [Interview](#interview)
+* [Windows Developer Show](http://windowsdevelopershow.com) - [Twice a Month] - [Interview](#interview)
+* [Radio TFS](http://radiotfs.com/) - [Irregular] - [Interview](#interview)
+* [CodingBlocks.NET](http://www.codingblocks.net/) - [Twice a Month] - [Themes](#themes), [Disscussion](#discussion)
+* [Onetug Podcast](http://onetug.azurewebsites.net/) - [Irregular] - [Interview](#interview)
+
+## PHP
+* [The Development Hell Podcast](http://devhell.info/) - [Monthly] - [Themes](#themes), [Disscussion](#discussion), [Interview](#interview)
+* [PHP Town Hall](http://phptownhall.com/) - [Monthly/Irregular] - [Interview](#interview), [Q&A](#qa)
+
+
+## Ruby
+* [Ruby Rouges](http://devchat.tv/ruby-rogues/) - [Weekly] - [Interview](#interview)
+* [The Bike Shed](http://bikeshed.fm/) - [Twice a Month] - [Disscussion](#discussion), [Themes](#themes)
 
 ## Web
 * [Shop Talk Show](http://shoptalkshow.com/) - [Weekly] - [Q&A](#qa), [Interview](#interview)
@@ -78,6 +95,10 @@ Programming languages are in alphabetical order.
 
 ## Mobile
 * [Debug](https://itunes.apple.com/us/podcast/debug/id578812394) - [Twice a Month] - [Interview](#interview)
+* [IPhreaks](http://devchat.tv/iphreaks) - [Weekly] - [Interview](#interview)
+* [Core Intuition](http://www.coreint.org/) - [Weekly] - [Themes](#themes), [Disscussion](#discussion), [Q&A](#qa) 
+* [Gone Mobile](http://gonemobile.io/) - [Monthly/Irregular] - [Interview](#interview)
+* [Xamarin Podcast](https://soundcloud.com/xamarin-podcast) - [Irregular] - [News](#news), [Themes](#themes), [Disscussion](#discussion)
 
 ## Security
 * [Security Now](https://www.grc.com/securitynow.htm) - [Weekly] - [Themes](#themes), [Q&A](#qa) 
@@ -86,6 +107,20 @@ Programming languages are in alphabetical order.
 ## DevOps
 * [The Ship Show](http://theshipshow.com/) - [Twice a Month] - [Themes](#themes)
 * [Food Fights Show](http://foodfightshow.org/) - [Irregular] - [Interview](#interview)
+* [Traffic and Weather](http://trafficandweather.io/) - [Irregular] - [Interview](#interview), [Themes](#themes), [Disscussion](#discussion)
+
+## Testing
+* [Test Talks](http://joecolantonio.com/testtalks/) - [Weekly] - [Interview](#interview)
+* [Testing in the Pub](http://testinginthepub.co.uk/testinginthepub/) - [Monthly/Irregular] - [Themes](#themes), [Disscussion](#discussion), [Interview](#interview)
+
+## Freelance
+* [Freelancers Show](http://devchat.tv/freelancers) - [Weekly] - [Interview](#interview)
+* [EntreProgrammers](http://entreprogrammers.com/) - [Weekly] - [Themes](#themes), [Disscussion](#discussion), [Interview](#interview)
+
+## Lifestyle
+* [Get up and Code](http://getupandcode.com/) - [Weekly] - [Interview](#interview)
+* [Healthy Hacker](http://www.healthyhacker.com/) - [Weekly] - [Themes](#themes), [Interview](#interview)
+* [Hello World Podcast](http://wildermuth.com/hwpod) - [Weekly] - [Interview](#interview)
 
 ## Legend
 #### Interview
