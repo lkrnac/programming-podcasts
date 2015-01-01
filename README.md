@@ -1,37 +1,38 @@
-# List of Software Engineering Podcasts
+# List of Active Software Engineering Podcasts
 
 * [Motivation](lkrnac.net)
 * Programming languages are in alphabetical order
+* **Feel free to contribute / create pull request**
+* Best alternative to this list is [Player FM's section Software Development](https://player.fm/featured/software-development)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [List of Software Engineering Podcasts](#list-of-software-engineering-podcasts)
-  - [Software Engineering (not language/technology specific)](#software-engineering-not-languagetechnology-specific)
-  - [Clojure](#clojure)
-  - [Erlang](#erlang)
-  - [Haskell](#haskell)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [.NET](#net)
-  - [PHP](#php)
-  - [Ruby](#ruby)
-  - [Web](#web)
-  - [Mobile](#mobile)
-  - [Security](#security)
-  - [DevOps](#devops)
-  - [Testing](#testing)
-  - [Freelance](#freelance)
-  - [Lifestyle](#lifestyle)
-  - [Legend](#legend)
-      - [Interview](#interview)
-      - [News](#news)
-      - [Themes](#themes)
-      - [Discussion](#discussion)
-      - [Beginner](#beginner)
-      - [Q&A](#q&a)
-      - [Talks](#talks)
+- [Software Engineering (not language/technology specific)](#software-engineering-not-languagetechnology-specific)
+- [Clojure](#clojure)
+- [Erlang](#erlang)
+- [Haskell](#haskell)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [.NET](#net)
+- [PHP](#php)
+- [Ruby](#ruby)
+- [Web](#web)
+- [Mobile](#mobile)
+- [Security](#security)
+- [DevOps](#devops)
+- [Testing](#testing)
+- [Freelance](#freelance)
+- [Lifestyle](#lifestyle)
+- [Legend](#legend)
+    - [Interview](#interview)
+    - [News](#news)
+    - [Themes](#themes)
+    - [Discussion](#discussion)
+    - [Beginner](#beginner)
+    - [Q&A](#q&a)
+    - [Talks](#talks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -41,11 +42,12 @@
 * [Hanselminutes](http://www.hanselminutes.com/) - [Weekly] - [Interview](#interview)
 * [The Changelog](http://thechangelog.com/podcast/) - [Twice a Month] - [Interview](#interview)
 * [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/) - [Weekly] - [Interview](#interview)
-* [All Things Pivotal](http://www.pivotal.io/podcasts) - [Weekly] - [Themes](#themes), [Interview](#interview)
 * [Functional Geekery](http://www.functionalgeekery.com/) - [Weekly] - [Interview](#interview)
+* [All Things Pivotal](http://www.pivotal.io/podcasts) - [Weekly] - [Themes](#themes), [Interview](#interview)
 * [Illegal Argument](http://www.illegalargument.com/) - [Twice a Month] - [Disscussion](#discussion), [Themes](#themes)
 * [Hack & Heckle](http://hackandheckle.com/) - [Weekly] - [Disscussion](#discussion), [Themes](#themes)
 * [Programming Throwdown](http://www.programmingthrowdown.com/) - [Irregular] - [Disscussion](#discussion), [Themes](#themes)
+* [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - [Weekly] - [Disscussion](#discussion), [Themes](#themes)
 * [Devnexus Podcast](http://www.devnexus.com/static/podcast/devnexus_podcast.xml) - [Irregular] - [Talks](#talks)
 * [Basement Coders](http://basementcoders.com/) - [Irregular] - [Disscussion](#discussion), [Themes](#themes)
 * [Code Newbie](http://www.codenewbie.org/podcast) - [Weekly] - [Interview](#interview), [Begginer](#beginner)
@@ -77,7 +79,8 @@
 ## .NET
 * [.NET Rocks!](http://www.dotnetrocks.com/) - [Daily] - [Interview](#interview)
 * [MS Dev Show](http://msdevshow.com/) - [Weekly] - [News](#news), [Interview](#interview), [Disscussion](#discussion)
-* [Herding Code](http://herdingcode.com/) - [Monthly] - [Interview](#interview)
+* [Herding Code](http://herdingcode.com/) - [Monthly] - [Interview](#interview) - [News](#news), [Disscussion](#discussion)
+* [This Week On Channel 9](http://channel9.msdn.com/shows/This+Week+On+Channel+9/) - [Weekly] - 
 * [Yet Another Podcast](http://jesseliberty.com/podcast/) - [Twice a Month] - [Interview](#interview)
 * [Windows Developer Show](http://windowsdevelopershow.com) - [Twice a Month] - [Interview](#interview)
 * [Radio TFS](http://radiotfs.com/) - [Irregular] - [Interview](#interview)
@@ -104,6 +107,7 @@
 * [Core Intuition](http://www.coreint.org/) - [Weekly] - [Themes](#themes), [Disscussion](#discussion), [Q&A](#qa) 
 * [Gone Mobile](http://gonemobile.io/) - [Monthly/Irregular] - [Interview](#interview)
 * [Xamarin Podcast](https://soundcloud.com/xamarin-podcast) - [Irregular] - [News](#news), [Themes](#themes), [Disscussion](#discussion)
+* [My Appventure](http://www.myappventure.com/) - [Twice a Month/Irregular] - [Interview](#interview)
 
 ## Security
 * [Security Now](https://www.grc.com/securitynow.htm) - [Weekly] - [Themes](#themes), [Q&A](#qa) 
