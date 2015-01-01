@@ -10,10 +10,15 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [.NET](#net)
+  - [PHP](#php)
+  - [Ruby](#ruby)
   - [Web](#web)
   - [Mobile](#mobile)
   - [Security](#security)
   - [DevOps](#devops)
+  - [Testing](#testing)
+  - [Freelance](#freelance)
+  - [Lifestyle](#lifestyle)
   - [Legend](#legend)
       - [Interview](#interview)
       - [News](#news)
@@ -82,7 +87,6 @@ Programming languages are in alphabetical order.
 * [The Development Hell Podcast](http://devhell.info/) - [Monthly] - [Themes](#themes), [Disscussion](#discussion), [Interview](#interview)
 * [PHP Town Hall](http://phptownhall.com/) - [Monthly/Irregular] - [Interview](#interview), [Q&A](#qa)
 
-
 ## Ruby
 * [Ruby Rouges](http://devchat.tv/ruby-rogues/) - [Weekly] - [Interview](#interview)
 * [The Bike Shed](http://bikeshed.fm/) - [Twice a Month] - [Disscussion](#discussion), [Themes](#themes)
@@ -116,6 +120,7 @@ Programming languages are in alphabetical order.
 ## Freelance
 * [Freelancers Show](http://devchat.tv/freelancers) - [Weekly] - [Interview](#interview)
 * [EntreProgrammers](http://entreprogrammers.com/) - [Weekly] - [Themes](#themes), [Disscussion](#discussion), [Interview](#interview)
+* [Startups for Rest of Us](http://www.startupsfortherestofus.com/) - [Weekly] - [Themes](#themes), [Disscussion](#discussion), [Interview](#interview)
 
 ## Lifestyle
 * [Get up and Code](http://getupandcode.com/) - [Weekly] - [Interview](#interview)
