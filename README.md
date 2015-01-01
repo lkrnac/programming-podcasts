@@ -1,3 +1,8 @@
+# List of Software Engineering Podcasts
+
+* [Motivation](lkrnac.net)
+* Programming languages are in alphabetical order
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
@@ -29,10 +34,6 @@
       - [Talks](#talks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# List of Software Engineering Podcasts
-
-Programming languages are in alphabetical order.
 
 ## Software Engineering (not language/technology specific)
 * [Software Engineering Radio](http://www.se-radio.net/) - [Monthly] - [Interview](#interview)
