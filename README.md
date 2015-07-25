@@ -1,6 +1,10 @@
-# This list is not maintained, because there is much better alternative to discover programming podcasts. Look into [Player FM's section Software Development](https://player.fm/featured/software-development)
+# This list is not maintained, because I found better alternative to discover programming podcasts. Look into [Player FM's section Software Development](https://player.fm/featured/software-development)
 
-## List of Software Engineering Podcasts
+
+I am open to start maintaining it if the format is compelling. Please create issue/pull request in such case. Also the list is quite wide and I don't listen to all of them. I may change it to my selection in future.
+
+
+# List of Software Engineering Podcasts
 
 * Programming languages are in alphabetical order
 
