@@ -1,9 +1,8 @@
-# List of Active Software Engineering Podcasts
+# This list is not maintained, because there is much better alternative to discover programming podcasts. Look into [Player FM's section Software Development](https://player.fm/featured/software-development)
 
-* [Motivation](lkrnac.net)
+## List of Software Engineering Podcasts
+
 * Programming languages are in alphabetical order
-* **Feel free to contribute / create pull request**
-* Best alternative to this list is [Player FM's section Software Development](https://player.fm/featured/software-development)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
